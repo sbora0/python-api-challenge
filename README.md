@@ -18,21 +18,21 @@ For this assignment there were two requirements as given below:
 
    •	Compute Linear Regression for Each Relationship.
 
-      o	Northern Hemisphere: Temperature (C) vs. Latitude
+         o	Northern Hemisphere: Temperature (C) vs. Latitude
 
-      o	Southern Hemisphere: Temperature (C) vs. Latitude
+         o	Southern Hemisphere: Temperature (C) vs. Latitude
 
-      o	Northern Hemisphere: Humidity (%) vs. Latitude
+         o	Northern Hemisphere: Humidity (%) vs. Latitude
 
-      o	Southern Hemisphere: Humidity (%) vs. Latitude
+         o	Southern Hemisphere: Humidity (%) vs. Latitude
 
-      o	Northern Hemisphere: Cloudiness (%) vs. Latitude
+         o	Northern Hemisphere: Cloudiness (%) vs. Latitude
 
-      o	Southern Hemisphere: Cloudiness (%) vs. Latitude
+         o	Southern Hemisphere: Cloudiness (%) vs. Latitude
 
-      o	Northern Hemisphere: Wind Speed (m/s) vs. Latitude
+         o	Northern Hemisphere: Wind Speed (m/s) vs. Latitude
 
-      o	Southern Hemisphere: Wind Speed (m/s) vs. Latitude
+         o	Southern Hemisphere: Wind Speed (m/s) vs. Latitude
 
 
 
