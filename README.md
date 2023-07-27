@@ -7,13 +7,13 @@ For this assignment there were two requirements as given below:
    
    •	Create Plots to Showcase the Relationship Between Weather Variables and Latitude.
 
-      o	Latitude vs. Temperature
+         o	Latitude vs. Temperature
 
-      o	Latitude vs. Humidity
+         o	Latitude vs. Humidity
 
-      o	Latitude vs. Cloudiness
+         o	Latitude vs. Cloudiness
 
-      o	Latitude vs. Wind Speed
+         o	Latitude vs. Wind Speed
 
 
    •	Compute Linear Regression for Each Relationship.
