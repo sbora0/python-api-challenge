@@ -52,6 +52,6 @@ Files Information:
 
          •	The plots and observation about the linear relationship is in the jupyter notebook "WeatherPy.ipynb" file.
 
-         •	The hvplot map for all the cities is in “cities.png” in "WeatherPy\output_data" folder.
+         •	The hvplot for the cities is in “cities.png” in "WeatherPy\output_data" folder.
 
-         •	The hvplot map for all the hotels is in “hotels.png” in "WeatherPy\output_data" folder.
+         •	The hvplot for the hotels is in “hotels.png” in "WeatherPy\output_data" folder.
