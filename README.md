@@ -27,8 +27,13 @@ o	Southern Hemisphere: Wind Speed (m/s) vs. Latitude
 
 Files Information:
 •	CSV files "cities.csv" is in "WeatherPy\output_data" folder.
+
 •	Image files for scatter plots are in "WeatherPy\output_data" folder.
+
 •	Jupyter notebook file "WeatherPy.ipynb" and "VacationPy.ipynb" with the python script and output information is in "WeatherPy" folder.
+
 •	The plots and observation about the linear relationship is in the jupyter notebook "WeatherPy.ipynb" file.
+
 •	The hvplot map for all the cities is in “cities.png” in "WeatherPy\output_data" folder.
+
 •	The hvplot map for all the hotels is in “hotels.png” in "WeatherPy\output_data" folder.
