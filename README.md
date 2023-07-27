@@ -38,20 +38,20 @@ For this assignment there were two requirements as given below:
 
 2. Create map using hvplot for below details:
     
-   •	Create a map that displays a point for every city based on cities.csv data.
+         •	Create a map that displays a point for every city based on cities.csv data.
 
-   •	Narrow down the data and then use the Geoapify API to find the first hotel located within 10,000 meters of city coordinates and show the information on a map. 
+         •	Narrow down the data and then use the Geoapify API to find the first hotel located within 10,000 meters of city coordinates and show the information on a map. 
 
 Files Information:
 
-   •	CSV files "cities.csv" is in "WeatherPy\output_data" folder.
+         •	CSV files "cities.csv" is in "WeatherPy\output_data" folder.
 
-   •	Image files for scatter plots are in "WeatherPy\output_data" folder.
+         •	Image files for scatter plots are in "WeatherPy\output_data" folder.
 
-   •	Jupyter notebook file "WeatherPy.ipynb" and "VacationPy.ipynb" with the python script and output information is in "WeatherPy" folder.
+         •	Jupyter notebook file "WeatherPy.ipynb" and "VacationPy.ipynb" with the python script and output information is in "WeatherPy" folder.
 
-   •	The plots and observation about the linear relationship is in the jupyter notebook "WeatherPy.ipynb" file.
+         •	The plots and observation about the linear relationship is in the jupyter notebook "WeatherPy.ipynb" file.
 
-   •	The hvplot map for all the cities is in “cities.png” in "WeatherPy\output_data" folder.
+         •	The hvplot map for all the cities is in “cities.png” in "WeatherPy\output_data" folder.
 
-   •	The hvplot map for all the hotels is in “hotels.png” in "WeatherPy\output_data" folder.
+         •	The hvplot map for all the hotels is in “hotels.png” in "WeatherPy\output_data" folder.
